@@ -1,9 +1,9 @@
 
-## Project overview
+## Project Overview
 
 * **Objective:** Create a database schema, populate it with data, and execute SQL queries to extract insights from the dataset.
 * **Project instructions:** [here](http://syllabus.africacode.net/sql/shop-project/)
-* **Project repo:** [Thabiso-Mokgete-200-sql](https://github.com/Umuzi-org/Thabiso-Mokgete-200-sql-.git)
+
   
 ## Prerequisites
 
